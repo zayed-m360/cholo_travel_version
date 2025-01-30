@@ -2,21 +2,21 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "Robiul Create App",
-        "package_name": "com.m360ict.robiul_create_app",
-        "play_store_version": "1.0.1+2",
+        "app_name": "Cholo Travel",
+        "package_name": "com.m360ict.cholo_travel",
+        "play_store_version": "1.0.0+1",
         "app_store_version": "1.0.0+1",
         "microsoft_store_version": "1.0.0+1",
-        "force_update": true,
+        "force_update": false,
         "is_pause": false,
         "app_icon": "20250126174259-45295b47.png",
-        "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.robiul_create_app",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.cholo_travel",
         "app_store_link": null,
         "microsoft_store_link": null,
         "id": 29,
         "created_at": "2025-01-26T17:42:59.201130+06:00",
         "updated_at": "2025-01-26T17:42:59.201130+06:00",
-        "created_by": "robiulalam.m360ict@gmail.com",
+        "created_by": "zayedoyshik.m360ict@gmail.com",
         "updated_by": null
     }
 }
